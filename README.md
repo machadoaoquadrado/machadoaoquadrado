@@ -9,6 +9,8 @@ Software Developer passionate about building clean, efficient and scalable appli
 </p>
 
 ---
+![Snake animation](https://github.com/machadoaoquadrado/machadoaoquadrado/blob/output/github-contribution-grid-snake.svg)
+---
 
 ## 👨‍💻 About Me
 
